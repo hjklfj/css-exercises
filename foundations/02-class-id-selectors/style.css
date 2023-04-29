@@ -1,0 +1,15 @@
+.p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#c2 {
+    color: blue;
+    font-size: 36px;
+}
+.c3,#c4 {
+    font-size: 24px;
+}
+#c4 {
+    background-color: aquamarine;
+    font-weight: bold;
+}
